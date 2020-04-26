@@ -142,3 +142,6 @@ venv/
 
 # vscode
 .vscode/
+
+# png
+*.png
