@@ -139,3 +139,6 @@ dmypy.json
 
 # venv
 venv/
+
+# vscode
+.vscode/
